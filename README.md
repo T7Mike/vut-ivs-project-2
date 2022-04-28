@@ -2,7 +2,7 @@
 Windows 64bit
 
 ### Authors
-##### Disassembler
+#### Disassembler
 - xharmi00 Dominik Harmim
 - xhalas10 Timotej Halás
 - xhavla06 Matej Havlas
